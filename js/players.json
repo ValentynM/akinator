@@ -1,0 +1,423 @@
+{
+	"players": [{
+		"player": "Eden Hazard",
+		"championship": "Premier League",
+		"club": "Chelsea",
+		"country": "Belgium",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/50202-1537861483.jpg?lm=1537861501"
+	},
+	{
+	    "player": "Ryan Fraser",
+		"championship": "Premier League",
+		"club": "Bournemouth",
+		"country": "Scotland",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/146795-1481812691.jpg?lm=1481812718"
+	},
+	{
+	    "player": "Christian Eriksen",
+		"championship": "Premier League",
+		"club": "Tottenham",
+		"country": "Denmark",
+	    "photo": "https://tmssl.akamaized.net//images/portrait/medium/69633-1518794659.jpg?lm=1518794673"
+	},
+	{
+	    "player": "Paul Pogba",
+		"championship": "Premier League",
+		"club": "Manchester United",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/122153-1477054749.jpg?lm=1477054770"
+	},
+	{
+	    "player": "Leroy Sane",
+		"championship": "Premier League",
+		"club": "Manchester City",
+		"country": "Germany",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/192565-1533720545.jpg?lm=1533720579"
+	},
+	{
+	    "player": "Raheem Sterling",
+		"championship": "Premier League",
+		"club": "Manchester City",
+		"country": "England",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/134425-1444713982.jpg?lm=1444714029"
+	},
+	{
+	    "player": "Andrew Roberton",
+		"championship": "Premier League",
+		"club": "Liverpool",
+		"country": "Scotland",
+	    "photo": "https://tmssl.akamaized.net//images/portrait/small/234803-1491477643.jpg?lm=1491477674"
+	},
+	{
+	    "player": "Mohamed Salah",
+		"championship": "Premier League",
+		"club": "Liverpool",
+		"country": "Egypt",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/148455-1546611604.jpg?lm=1546611628"
+	},
+	{
+	    "player": "Joao Moutinho",
+		"championship": "Premier League",
+		"club": "Wolverhampton",
+		"country": "Portugal",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/29364-1464083394.PNG?lm=1464083414"
+	},
+	{
+	    "player": "Sergio Aguero",
+		"championship": "Premier League",
+		"club": "Manchester City",
+		"country": "Argentina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/26399-1453896269.jpg?lm=1453896241"
+	},
+	{
+	    "player": "Trent Alexander-Aenold",
+		"championship": "Premier League",
+		"club": "Liverpool",
+		"country": "England",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/314353-1473342620.jpg?lm=1473342641"
+	},
+	{
+	    "player": "Alexandre Lacazette",
+		"championship": "Premier League",
+		"club": "Arsenal",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/93720-1433325070.jpg?lm=1433325101"
+	},
+	{
+	    "player": "Lionel Messi",
+		"championship": "La-liga",
+		"club": "Barcelona",
+		"country": "Argentina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/28003-1510231943.jpg?lm=1510231982"
+	},
+	{
+	    "player": "Antoine Griezmann",
+		"championship": "La-liga",
+		"club": "Atletico Madrid",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/125781-1533626871.jpg?lm=1533626889"
+	},
+	{
+	    "player": "Ousmane Dembele",
+		"championship": "La-liga",
+		"club": "Barcelona",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/288230-1533721947.jpg?lm=1533721995"
+	},
+	{
+	    "player": "Philippe Coutinho",
+		"championship": "La-liga",
+		"club": "Barcelona",
+		"country": "Brazil",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/80444-1541168083.jpg?lm=1541168102"
+	},
+	{
+	    "player": "Saul Niguez",
+		"championship": "La-liga",
+		"club": "Atletico Madrid",
+		"country": "Spain",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/148928-1447152836.jpg?lm=1447152871"
+	},
+	{
+	    "player": "Marc-Andre ter Stegen",
+		"championship": "La-liga",
+		"club": "Barcelona",
+		"country": "Spain",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/74857-1476949803.jpg?lm=1476949839"
+	},
+	{
+	    "player": "Toni Kroos",
+		"championship": "La-liga",
+		"club": "Real Madrid",
+		"country": "Germany",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/31909-1519743952.jpg?lm=1519743979"
+	},
+	{
+	    "player": "Raphael Varane",
+		"championship": "La-liga",
+		"club": "Real Madrid",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/164770-1413206196.jpg?lm=1433143763"
+	},
+	{
+	    "player": "Marco Asensio",
+		"championship": "La-liga",
+		"club": "Real Madrid",
+		"country": "Spain",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/296622-1447228327.jpg?lm=1447228368"
+	},
+	{
+	    "player": "Jan Oblak",
+		"championship": "La-liga",
+		"club": "Atletico Madrid",
+		"country": "Slovenia",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/121483-1447152842.jpg?lm=1447152881"
+	},
+	{
+	    "player": "Sergio Busquets",
+		"championship": "La-liga",
+		"club": "Barcelona",
+		"country": "Spain",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/65230-1453896822.jpg?lm=1453896799"
+	},
+	{
+	    "player": "Jose Gimenez",
+		"championship": "La-liga",
+		"club": "Atletico Madrid",
+		"country": "Uruguay",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/250845-1447152624.jpg?lm=1447152663"
+	},
+	{
+	    "player": "Paulo Dybala",
+		"championship": "Seria A",
+		"club": "Juventus",
+		"country": "Argentina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/206050-1541076083.jpg?lm=1541076105"
+	},
+	{
+	    "player": "Cristiano Ronaldo",
+		"championship": "Seria A",
+		"club": "Juventus",
+		"country": "Portugal",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/8198-1515761767.jpg?lm=1515761786"
+	},
+	{
+	    "player": "Mauro Icardi",
+		"championship": "Seria A",
+		"club": "Inter",
+		"country": "Argentina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/68863-1410955120.jpg?lm=1433144887"
+	},
+	{
+	    "player": "Lorenzo Insigne",
+		"championship": "Seria A",
+		"club": "Napoli",
+		"country": "Italy",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/133964-1537708558.jpg?lm=1537708571"
+	},
+	{
+	    "player": "Sergej Milinkovic-Savic",
+		"championship": "Seria A",
+		"club": "Lazio",
+		"country": "Serbia",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/266302-1448467863.jpg?lm=1448467894"
+	},
+	{
+	    "player": "Miralem Pjanic",
+		"championship": "Seria A",
+		"club": "Juventus",
+		"country": "Bosnia-Herzegovina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/44162-1448466304.jpg?lm=1448466314"
+	},
+	{
+	    "player": "Kalidou Koulibaly",
+		"championship": "Seria A",
+		"club": "Napoli",
+		"country": "Senegal",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/93128-1448528991.jpg?lm=1448529031"
+	},
+	{
+	    "player": "Milan Skriniar",
+		"championship": "Seria A",
+		"club": "Inter",
+		"country": "Slovakia",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/204069-1464947109.jpg?lm=1464947130"
+	},
+	{
+	    "player": "Allan",
+		"championship": "Seria A",
+		"club": "Napoli",
+		"country": "Brazil",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/126422-1448529525.jpg?lm=1448529550"
+	},
+	{
+	    "player": "Joao Cancelo",
+		"championship": "Seria A",
+		"club": "Juventus",
+		"country": "Portugal",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/182712-1447246881.jpg?lm=1447246931"
+	},
+	{
+	    "player": "Ciro Immobile",
+		"championship": "Seria A",
+		"club": "Lazio",
+		"country": "Italy",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/105521-1447240015.jpg?lm=1447240055"
+	},
+	{
+	    "player": "Gianluigi Donnarumma",
+		"championship": "Seria A",
+		"club": "Milan",
+		"country": "Italy",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/315858-1439451572.jpg?lm=14394517569"
+	},
+	{
+	    "player": "Marco Reus",
+		"championship": "Bundesliga",
+		"club": "Borussia Dortmund",
+		"country": "Germany",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/35207-1534236293.jpg?lm=1534236362"
+	},
+	{
+	    "player": "Jadon Sancho",
+		"championship": "Bundesliga",
+		"club": "Borussia Dortmund",
+		"country": "Germany",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/401173-1534236427.jpg?lm=1534236446"
+	},
+	{
+	    "player": "Thiago",
+		"championship": "Bundesliga",
+		"club": "Bayern Munich",
+		"country": "Spain",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/60444-1540568423.jpg?lm=1540568436"
+	},
+	{
+	    "player": "Karim Bellarabi",
+		"championship": "Bundesliga",
+		"club": "Bayer Leverkusen",
+		"country": "Germany",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/61087-1473754741.JPG?lm=1473754820"
+	},
+	{
+	    "player": "Roman Burki",
+		"championship": "Bundesliga",
+		"club": "Borussia Dortmund",
+		"country": "Switzerland",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/59027-1534235756.jpg?lm=1534235815"
+	},
+	{
+	    "player": "Sebastien Haller",
+		"championship": "Bundesliga",
+		"club": "Eintracht",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/181375-1533115156.jpg?lm=1533115279"
+	},
+	{
+	    "player": "Paco Akacer",
+		"championship": "Bundesliga",
+		"club": "Borussia Dortmund",
+		"country": "Spain",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/126716-1535623344.jpg?lm=1535623353"
+	},
+	{
+	    "player": "Yann Sommer",
+		"championship": "Bundesliga",
+		"club": "Borussia Monchengladbach",
+		"country": "Switzerland",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/42205-1533289229.jpg?lm=1533289402"
+	},
+	{
+	    "player": "Marko Grujic",
+		"championship": "Bundesliga",
+		"club": "Hertha",
+		"country": "Serbia",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/222813-1432645572.jpg?lm=1433144015"
+	},
+	{
+	    "player": "Rune Jarstein",
+		"championship": "Bundesliga",
+		"club": "Hertha",
+		"country": "Norway",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/24112-1532355090.jpg?lm=1532355166"
+	},
+	{
+	    "player": "Luka Jovic",
+		"championship": "Bundesliga",
+		"club": "Eintracht",
+		"country": "Serbia",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/257462-1533115178.jpg?lm=1533115302"
+	},
+	{
+	    "player": "Axel Witsel",
+		"championship": "Bundesliga",
+		"club": "Borussia Dortmund",
+		"country": "Belgium",
+		"photo": "https://tmssl.akamaized.net//images/portrait/small/35047-1534236499.jpg?lm=1534236620"
+	},
+	{
+	    "player": "Kylian Mbappe",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/342229-1533629004.jpg?lm=1533629019"
+	},
+	{
+	    "player": "Neymar",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "Brazil",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/68290-1529677270.jpg?lm=1529677295"
+	},
+	{
+	    "player": "Marco Verratti",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "Italy",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/102558-1465813690.jpg?lm=1465813705"
+	},
+	{
+	    "player": "Nabil Fekir",
+		"championship": "Ligue-1",
+		"club": "Lyon",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/203496-1448021651.jpg?lm=1448021699"
+	},
+	{
+	    "player": "Marquinhos",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "Brazil",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/181767-1425291803.jpg?lm=1433143839"
+	},
+	{
+	    "player": "Edinson Cavani",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "Uruguay",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/48280-1510225691.jpg?lm=1510225719"
+	},
+	{
+	    "player": "Florian Thauvin",
+		"championship": "Ligue-1",
+		"club": "Marseille",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/184892-1478257012.jpg?lm=1478257025"
+	},
+	{
+	    "player": "Memphis Depay",
+		"championship": "Ligue-1",
+		"club": "Lyon",
+		"country": "Netherlands",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/167850-1474636352.jpg?lm=1474636367"
+	},
+	{
+	    "player": "Tanguy Ndombele",
+		"championship": "Ligue-1",
+		"club": "Lyon",
+		"country": "France",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/450936-1501577557.jpg?lm=1501577578"
+	},
+	{
+	    "player": "Angel Di Maria",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "Argentina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/45320-1505396555.jpg?lm=1505396564"
+	},
+	{
+	    "player": "Nicolas Pepe",
+		"championship": "Ligue-1",
+		"club": "LOSC Lille",
+		"country": "Cote d'Ivoire",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/166237-1449071319.jpg?lm=1449071357"
+	},
+	{
+	    "player": "Leandro Paredes",
+		"championship": "Ligue-1",
+		"club": "Paris Saint-Germain",
+		"country": "Argentina",
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/395693-1510155387.jpg?lm=1510155401"
+	}
+	]
+}
