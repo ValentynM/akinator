@@ -11,7 +11,7 @@
 		"championship": "Premier League",
 		"club": "Bournemouth",
 		"country": "Scotland",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/146795-1481812691.jpg?lm=1481812718"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/146795-1481812691.jpg?lm=1481812718"
 	},
 	{
 	    "player": "Christian Eriksen",
@@ -46,7 +46,7 @@
 		"championship": "Premier League",
 		"club": "Liverpool",
 		"country": "Scotland",
-	    "photo": "https://tmssl.akamaized.net//images/portrait/small/234803-1491477643.jpg?lm=1491477674"
+	    "photo": "https://tmssl.akamaized.net//images/portrait/medium/234803-1491477643.jpg?lm=1491477674"
 	},
 	{
 	    "player": "Mohamed Salah",
@@ -60,7 +60,7 @@
 		"championship": "Premier League",
 		"club": "Wolverhampton",
 		"country": "Portugal",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/29364-1464083394.PNG?lm=1464083414"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/29364-1464083394.PNG?lm=1464083414"
 	},
 	{
 	    "player": "Sergio Aguero",
@@ -74,7 +74,7 @@
 		"championship": "Premier League",
 		"club": "Liverpool",
 		"country": "England",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/314353-1473342620.jpg?lm=1473342641"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/314353-1473342620.jpg?lm=1473342641"
 	},
 	{
 	    "player": "Alexandre Lacazette",
@@ -122,7 +122,7 @@
 	    "player": "Marc-Andre ter Stegen",
 		"championship": "La-liga",
 		"club": "Barcelona",
-		"country": "Spain",
+		"country": "Germany",
 		"photo": "https://tmssl.akamaized.net//images/portrait/medium/74857-1476949803.jpg?lm=1476949839"
 	},
 	{
@@ -256,84 +256,84 @@
 		"championship": "Bundesliga",
 		"club": "Borussia Dortmund",
 		"country": "Germany",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/35207-1534236293.jpg?lm=1534236362"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/35207-1534236293.jpg?lm=1534236362"
 	},
 	{
 	    "player": "Jadon Sancho",
 		"championship": "Bundesliga",
 		"club": "Borussia Dortmund",
 		"country": "Germany",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/401173-1534236427.jpg?lm=1534236446"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/401173-1534236427.jpg?lm=1534236446"
 	},
 	{
 	    "player": "Thiago",
 		"championship": "Bundesliga",
 		"club": "Bayern Munich",
 		"country": "Spain",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/60444-1540568423.jpg?lm=1540568436"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/60444-1540568423.jpg?lm=1540568436"
 	},
 	{
 	    "player": "Karim Bellarabi",
 		"championship": "Bundesliga",
 		"club": "Bayer Leverkusen",
 		"country": "Germany",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/61087-1473754741.JPG?lm=1473754820"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/61087-1473754741.JPG?lm=1473754820"
 	},
 	{
 	    "player": "Roman Burki",
 		"championship": "Bundesliga",
 		"club": "Borussia Dortmund",
 		"country": "Switzerland",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/59027-1534235756.jpg?lm=1534235815"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/59027-1534235756.jpg?lm=1534235815"
 	},
 	{
 	    "player": "Sebastien Haller",
 		"championship": "Bundesliga",
 		"club": "Eintracht",
 		"country": "France",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/181375-1533115156.jpg?lm=1533115279"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/181375-1533115156.jpg?lm=1533115279"
 	},
 	{
 	    "player": "Paco Akacer",
 		"championship": "Bundesliga",
 		"club": "Borussia Dortmund",
 		"country": "Spain",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/126716-1535623344.jpg?lm=1535623353"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/126716-1535623344.jpg?lm=1535623353"
 	},
 	{
 	    "player": "Yann Sommer",
 		"championship": "Bundesliga",
 		"club": "Borussia Monchengladbach",
 		"country": "Switzerland",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/42205-1533289229.jpg?lm=1533289402"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/42205-1533289229.jpg?lm=1533289402"
 	},
 	{
 	    "player": "Marko Grujic",
 		"championship": "Bundesliga",
 		"club": "Hertha",
 		"country": "Serbia",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/222813-1432645572.jpg?lm=1433144015"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/222813-1432645572.jpg?lm=1433144015"
 	},
 	{
 	    "player": "Rune Jarstein",
 		"championship": "Bundesliga",
 		"club": "Hertha",
 		"country": "Norway",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/24112-1532355090.jpg?lm=1532355166"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/24112-1532355090.jpg?lm=1532355166"
 	},
 	{
 	    "player": "Luka Jovic",
 		"championship": "Bundesliga",
 		"club": "Eintracht",
 		"country": "Serbia",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/257462-1533115178.jpg?lm=1533115302"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/257462-1533115178.jpg?lm=1533115302"
 	},
 	{
 	    "player": "Axel Witsel",
 		"championship": "Bundesliga",
 		"club": "Borussia Dortmund",
 		"country": "Belgium",
-		"photo": "https://tmssl.akamaized.net//images/portrait/small/35047-1534236499.jpg?lm=1534236620"
+		"photo": "https://tmssl.akamaized.net//images/portrait/medium/35047-1534236499.jpg?lm=1534236620"
 	},
 	{
 	    "player": "Kylian Mbappe",

@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+:root {
+    font-family: 'Josefin Slab', serif;
+    color: white;
+    background: #000428;
+    background: -webkit-linear-gradient(to right, #004e92, #000428);
+    background: linear-gradient(to right, #004e92, #000428);
+}
+
+body {
+    max-width: 980px;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main .banner {
+    background-image: url(../img/champions-league.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    display: inline-block;
+    position: relative;
+    padding: 20px 38px;
+    top: 0;
+    font-size: 30px;
+    font-family: "Open Sans", Helvetica;
+    border-radius: 4px;
+    border-bottom: 1px solid rgba( 28, 227, 125, 0.5);
+    background: rgba( 65, 105, 225, 1);
+    color: #fff;
+    box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.1);
+
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    top: -10px;
+    box-shadow: 0px 10px 10px rgba(65, 105, 225, 0.2);
+
+    -webkit-transform: rotateX(20deg);
+    -moz-transform: rotateX(20deg);
+    -ms-transform: rotateX(20deg);
+    transform: rotateX(20deg);
+}
+
+button:active {
+    top: 0px;
+    box-shadow: 0px 0px 0px rgba( 65, 105, 225, 0.0);
+    background: rgba( 65, 105, 225, 1);
+}
+
+main .player {
+    border: 1px solid;
+}
+
+main .players {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main .player {
+    display: grid;
+    grid-template: 25% 25% 25% 25% / 150px 200px;
+}
+
+main .player img {
+    grid-area: 1 / 1 / 5 / 2;
+    padding-top: 5px;
+    padding-left: 5px;
+    height: 95%;
+}
+
+main .player-info {
+    grid-area: 1 / 2 / 5 / 3;
+}
+
+main .question h2 {
+    text-align: center;
+}
+
+main .question div {
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+}
+main .answer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+main .answer button {
+    margin: 10px;
+    padding: 10px;
+}
+
+@media(min-width: 660px) {
+    main .players {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media(min-width: 990px) {
+    main .players {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+footer {
+    text-align: center;
+}
