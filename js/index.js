@@ -72,34 +72,26 @@ let question;
 let tag;
 
 function createAkinatorQuestions() {
+    const categories = ['championship', 'club', 'country', 'player'];
     tags = { 'championship': new Set(), 'club': new Set(), 'country': new Set(), 'player': new Set() };
     players.map(function(element) {
-        tags['championship'].add(element['championship']);
-        tags['club'].add(element['club']);
-        tags['country'].add(element['country']);
-        tags['player'].add(element['player']);
+        for (let i = 0; i < categories.length; i++) {
+            tags[categories[i]].add(element[categories[i]]);
+        }
     });
+    
+    for (let i = 0; i < categories.length; i++) {
+        if (tags[categories[i]].size > 1) {
+            tag = categories[i];
+            question = [...tags[tag]][Math.floor(Math.random() * tags[tag].size)];
+            document.querySelector('main .question h2').textContent = tag === 'player' ? `Is it ${question}?` : `Is he from ${question}?`;
+            break;
+        }
+    }
 
-    if (tags['championship'].size > 1) {
-        tag = 'championship';
-        question = [...tags[tag]][Math.floor(Math.random() * tags[tag].size)];
-    }
-    else if (tags['club'].size > 1) {
-        tag = 'club';
-        question = [...tags[tag]][Math.floor(Math.random() * tags[tag].size)];
-    }
-    else if (tags['country'].size > 1) {
-        tag = 'country';
-        question = [...tags[tag]][Math.floor(Math.random() * tags[tag].size)];
-    }
-    else if (tags['player'].size > 1) {
-        tag = 'player';
-        question = [...tags[tag]][Math.floor(Math.random() * tags[tag].size)];
-    }
-    else {
+    if (tags['player'].size === 1) {
         getAnswer();
     }
-    document.querySelector('main .question h2').textContent = tag === 'player' ? `Is it ${question}?` : `Is he from ${question}?`;
 }
 
 $(document).on('click', '.yes-btn', yesPlayersFilter);
