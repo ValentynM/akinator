@@ -79,7 +79,7 @@ function createAkinatorQuestions() {
             tags[categories[i]].add(element[categories[i]]);
         }
     });
-    
+
     for (let i = 0; i < categories.length; i++) {
         if (tags[categories[i]].size > 1) {
             tag = categories[i];
@@ -94,19 +94,15 @@ function createAkinatorQuestions() {
     }
 }
 
-$(document).on('click', '.yes-btn', yesPlayersFilter);
-$(document).on('click', '.no-btn', noPlayersFilter);
+$(document).on('click', '.yes-btn, .no-btn', playersFilter);
 
-function yesPlayersFilter(event) {
-    players = players.filter(el => el[tag] === question);
-    deleteChildNodes(playersList);
-    players.map(getPlayerData);
-    createAkinatorQuestions();
-    console.log(players);
-}
-
-function noPlayersFilter() {
-    players = players.filter(el => !(el[tag] === question));
+function playersFilter() {
+    if (event.target.classList.contains('yes-btn')) {
+        players = players.filter(el => el[tag] === question);
+    }
+    else if (event.target.classList.contains('no-btn')) {
+        players = players.filter(el => !(el[tag] === question));
+    }
     deleteChildNodes(playersList);
     players.map(getPlayerData);
     createAkinatorQuestions();
